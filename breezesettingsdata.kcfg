@@ -189,7 +189,7 @@
 
     <!-- titlebar separator -->
     <entry name="DrawTitleBarSeparator" type = "Bool">
-      <default>true</default>
+      <default>false</default>
     </entry>
 
     <!-- opaque title bar -->
