@@ -3,13 +3,13 @@
         "Description": "Window decoration based on SierraBreeze and BreezeEnhanced styles for the Plasma Desktop",
         "EnabledByDefault": true,
         "Id": "org.kde.sierrabreezeenhanced",
-        "Name": "Sierra Breeze Enhanced",
+        "Name": "CatOS Aurorae",
         "ServiceTypes": [
             "org.kde.kdecoration2"
         ]
     },
     "org.kde.kdecoration2": {
-        "defaultTheme": "Sierra Breeze Enhanced",
+        "defaultTheme": "CatOS Aurorae",
         "kcmodule": true,
         "recommendedBorderSize": "Tiny"
     }
