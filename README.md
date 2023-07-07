@@ -1,10 +1,12 @@
-# Sierra Breeze Enhanced
-
-**Discontinued** (no free time available). **Let me know if you'd like to help keeping SBE up**
+# Breeze Enhanced by CatOS
 
 ## Overview
 
-Sierra Breeze Enhanced started as a fork of Breeze Enhanced decoration. It has the following main features:
+Breeze Enhanced by CatOS is a fork of Sierra Breeze Enhanced.
+
+It only change the default settings of ButtonStyle(from "macDarkAurorae" to "sierraMonochromeSymbols") and DrawTitleBarSeparator (from "true" to "false"),making it more suitable for CatOS default theme.
+
+It has the following main features:
 
  * Button style options: Plasma / Gnome / macOS Sierra / macOS Dark Aurorae / SBE Sierra themes / SBE Dark Aurorae themes / Color Symbols themes / Monochrome Symbols themes (Note: the application menu button is considered special and does not change).
  * Button spacing and padding Options.
@@ -115,4 +117,4 @@ sudo make uninstall
 
 
 ## Credits
-Breeze, Sierra Breeze and Breeze Enhanced for obvious reasons :)
+Breeze, Sierra Breeze and Breeze Enhanced and Sierra Breeze Enhanced for obvious reasons :)
